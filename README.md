@@ -7,7 +7,7 @@ The project consists to create RESTful API for Orizon agency travel.
 
 - APIs must respect the REST architecture (in particular: naming, methods and response status codes);
 
- - APIs must allow to insert, modify and delete a country, which has just one characteristic: the name; 
+- APIs must allow to insert, modify and delete a country, which has just one characteristic: the name; 
 
 - APIs must allow to insert, modify and delete a journey, which has these characteristics: countries involved in that trip, number of seats available; 
 
